@@ -1,6 +1,6 @@
 CXX = g++
 CXXFLAGS = -std=c++17 -I./include
-SRC = src/main.cpp src/loader.cpp src/packager.cpp
+SRC = src/main.cpp src/loader.cpp src/packager.cpp src/EXEzecutor.cpp
 OBJ = $(SRC:.cpp=.o)
 TARGET = bin/STE
 
