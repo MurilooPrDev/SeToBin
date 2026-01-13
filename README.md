@@ -57,4 +57,13 @@ STE --pack biblioteca.dll
 
 ---
 
-**Desenvolvido por MurilooPr**
+## Gerador de exe
+agora a STE aceita EXE de terminal
+para executar um, apenas use o comando: * `./bin/STE -exc arquivo.exe`
+
+
+
+
+Desenvolvido por MurilooPrDev
+
+(O uso indevido dessa ferramenta e proibido e ilegal,essa ferramenta e apenas para meios de estudos)
